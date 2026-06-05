@@ -100,18 +100,7 @@ The dashboard tracks:
 - Monitor low-stock items proactively to prevent stockouts.
 - Leverage product performance insights for strategic planning.
 
----
 
-
-## Dashboard Preview
-
-Add your dashboard screenshot below:
-
-```markdown
-![Dashboard](Dashboard_Screenshot.png)
-```
-
----
 
 ## Skills Demonstrated
 
@@ -125,8 +114,3 @@ Add your dashboard screenshot below:
 - DAX
 - Data Visualization
 
----
-
-## Resume Description
-
-Developed a Power BI dashboard analyzing sales, inventory utilization, and product performance using SAP-style business data. Identified revenue trends and inventory insights to support data-driven operational decision-making.
