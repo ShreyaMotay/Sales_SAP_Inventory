@@ -102,19 +102,6 @@ The dashboard tracks:
 
 ---
 
-## Project Structure
-
-```text
-SAP-Sales-Inventory-Analytics
-│
-├── SAP_Sales_Inventory.xlsx
-├── SAP_Dashboard.pbix
-├── Dashboard_Screenshot.png
-├── README.md
-└── Business_Insights.docx
-```
-
----
 
 ## Dashboard Preview
 
